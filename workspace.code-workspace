@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "TheGC",
+			"path": "..\\..\\..\\..\\Downloads\\WEB\\TheGC"
+		},
+		{
+			"path": "..\\..\\..\\..\\Downloads\\RepasoMovil\\JS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio"
+	}
+}
