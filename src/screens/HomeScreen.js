@@ -13,7 +13,11 @@ const HomeScreen = ({ navigation }) => {
                 navigation.navigate("Game", { start: true });
                 }}
             />
-            <Button title="Options" />
+            <Button title="Options" 
+            callback={() => {
+                navigation.navigate("Options");
+                }}
+            />
         </View>
     );
 };
